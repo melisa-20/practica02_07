@@ -1,1 +1,0 @@
-print("esto es el ejercicio Nº02") 
